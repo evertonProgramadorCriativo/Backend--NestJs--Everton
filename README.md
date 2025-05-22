@@ -18,7 +18,7 @@ Everton Eduardo é uma aplicação fullstack de postagens sociais com:
 ## 🔧 Instalação
 1. Clone o projeto
 ```bash
-git clone [https://github.com/seu-usuario/codeleap-network.git](https://github.com/evertonProgramadorCriativo/Backend--NestJs--Everton)
+git clone https://github.com/evertonProgramadorCriativo/Backend--NestJs--Everton
 cd codeleap-network
 
 cd codeleap-backend
